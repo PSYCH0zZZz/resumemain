@@ -76,5 +76,67 @@ mp3:
 
 6) Investigate the dependence of the number of collisions for each hash function on the array dimension, build a graph.
 
+Get_next_line:
+
+get_next_line
+Write a function that will store, in the parameter “line”, a line that has been read from the given file descriptor.
+
+Requirements
+Your function must be prototyped as follows: int get_next_line(int fd, char **line);
+Your function should be memory leak free.
+What we call a “line that has been read” is a succession of 0 to n characters that end with ‘\n’ (ascii code 0x0a) or with End Of File (EOF).
+The string stored in the parameter “line” should not contained any ‘\n’.
+The parameter is the address of a pointer to a character that will be used to store the line read.
+Return values
+The return value can be 1, 0 or -1 depending on whether a line has been read, when the reading has been completed (meaning read has returned 0), or if an error has happened respectively.
+
+When you’ve reached the End Of File, you must store the current buffer in “line”. If the buffer is empty you must store an empty string in “line”.
+When you’ve reached the End Of File, your function should keep 0 memory allocated with malloc except the last buffer that you should have stored in “line”.
+What you’ve stored in “line” should be free-able.
+Final words
+Calling your function get_next_line in a loop will therefore allow you to read the text available on a file descriptor one line at a time until the end of the text, no matter the size of either the text or one of its lines. Therfore, make sure that your function behaves well when it reads from a file, from the standard output, from a redirection etc. For the mandatory part, no call to another function will be done on the file descriptor between 2 calls of get_next_line.
+
+Finally we consider that get_next_line has an undefined behavior when reading from a binary file. You may make this work accordingly, but its not part of the bonus nor is it required.
+
+ft_printf:
+
+Instructions
+
+The only functions allowed are:
+
+
+write
+
+malloc
+
+free
+
+exit
+
+
+Features from the original printf included
+
+Displaying signed numbers (%d %i)
+
+Displaying unsigned numbers (%u)
+
+Displaying unsigned numbers in octal format (%o) or hexadecimal format (%x %X)
+
+Displaying pointers addresses (%p)
+
+Displaying chars and strings (%c %s)
+
+Complete support of floats and long floats, included DBL_MIN/MAX, LDBL_MIN/MAX, NaN and inf (%f with flags l and L)
+
+Management of %%
+
+Management of minimum field-width
+
+Management of the precision
+
+Management of the following flags: #0-+* and space
+
+Support of the following length flags: hh, h, l and ll
+
 Also you can check my GitLab repo.
 https://gitlab.com/PSYCH0zZZz/psycho/-/tree/main
