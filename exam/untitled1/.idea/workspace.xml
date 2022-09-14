@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2909200b-3bd4-4b0a-8583-c2488e62da54" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ProjectId" id="1nq8PcfNpUUiVHhSr0hksIy7yFc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2909200b-3bd4-4b0a-8583-c2488e62da54" name="Default Changelist" comment="" />
+      <created>1612106237586</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612106237586</updated>
+      <workItem from="1612106241502" duration="582000" />
+      <workItem from="1646329109941" duration="3596000" />
+      <workItem from="1648660206138" duration="10757000" />
+      <workItem from="1651851043638" duration="1128000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1237" height="201" key="GridCell.Tab.0.bottom" timestamp="1648759667948">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="201" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1648759667948" />
+    <state width="1237" height="201" key="GridCell.Tab.0.center" timestamp="1648759667948">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="201" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1648759667948" />
+    <state width="1237" height="201" key="GridCell.Tab.0.left" timestamp="1648759667948">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="201" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1648759667948" />
+    <state width="1237" height="201" key="GridCell.Tab.0.right" timestamp="1648759667948">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="201" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1648759667948" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1646331081208">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1646331081208" />
+  </component>
+</project>

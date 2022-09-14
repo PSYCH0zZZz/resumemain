@@ -1,0 +1,3 @@
+/cygdrive/c/Users/ASUS/CLionProjects/exam/mp3/cmake-build-release/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/ASUS/CLionProjects/exam/mp3/cmake-build-release/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/ASUS/CLionProjects/exam/mp3/cmake-build-release/CMakeFiles/mp3.dir

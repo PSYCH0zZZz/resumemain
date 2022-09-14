@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/ASUS/CLionProjects/exam/dasha/main.cpp
+iostream
+-
+fstream
+-
+vector
+-
+cstring
+-
+chrono
+-
+map
+-
+

@@ -1,0 +1,3 @@
+C:/Users/ASUS/CLionProjects/forme/operators/cmake-build-debug/CMakeFiles/operators.dir
+C:/Users/ASUS/CLionProjects/forme/operators/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ASUS/CLionProjects/forme/operators/cmake-build-debug/CMakeFiles/rebuild_cache.dir

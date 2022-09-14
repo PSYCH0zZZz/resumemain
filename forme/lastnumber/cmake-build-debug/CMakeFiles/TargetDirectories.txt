@@ -1,0 +1,3 @@
+C:/Users/ASUS/CLionProjects/forme/lastnumber/cmake-build-debug/CMakeFiles/lastnumber.dir
+C:/Users/ASUS/CLionProjects/forme/lastnumber/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ASUS/CLionProjects/forme/lastnumber/cmake-build-debug/CMakeFiles/rebuild_cache.dir
