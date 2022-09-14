@@ -1,8 +1,8 @@
 bool isPrime(int num)
 {
-    if (num < 2) // numbers less than 2 are a special case
+    if (num < 2) 
         return false;
-    bool checkPrime = true; // change here
+    bool checkPrime = true; 
     int limit = sqrt(num);
     for (int i = 2; i <= limit; i++)
     {
