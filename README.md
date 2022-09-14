@@ -8,6 +8,9 @@ BSQ - BSQ is a file parser, my program will receive one or more files, which are
 
 dzfibbon3 - fibbonachi founder
 
+dz1 - in this task i searched for the roots of the equation
+
+
 
 Also you can check my GitLab repo.
 https://gitlab.com/PSYCH0zZZz/psycho/-/tree/main
