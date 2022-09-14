@@ -1,5 +1,4 @@
 #!/bin/sh
-# Migalin
 # counter of interruptions
 counter=0
 # file name
