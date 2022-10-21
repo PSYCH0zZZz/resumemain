@@ -140,3 +140,6 @@ Support of the following length flags: hh, h, l and ll
 
 Also you can check my GitLab repo.
 https://gitlab.com/PSYCH0zZZz/psycho/-/tree/main
+
+
+Also ypu can check MathStat projects(Homework_1 and Homework_2)
