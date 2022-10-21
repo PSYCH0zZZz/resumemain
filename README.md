@@ -142,4 +142,4 @@ Also you can check my GitLab repo.
 https://gitlab.com/PSYCH0zZZz/psycho/-/tree/main
 
 
-Also ypu can check MathStat projects(Homework_1 and Homework_2)
+Also ypu can check MathStat projects(Homework_1 and Homework_2). Assigments for these projects are stored in file Дослосрочное домашнее задание(Дисĸретное — геометричесĸое, Непрерывное — Рэлея)
